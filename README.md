@@ -1,5 +1,5 @@
 # <h1 align="center">👨‍💻 Welcome Programmer</h1>
-![I am Web developer](https://media.licdn.com/dms/image/D5616AQFHzElybw7lNQ/profile-displaybackgroundimage-shrink_350_1400/0/1687174910423?e=1698278400&v=beta&t=nej07GeEKxZwr7X4hyKLg0sKVW3tPv6ruf8L2VCtGYs)
+[![linkedin-profile-photo.jpg](https://i.postimg.cc/4dw3kvQS/linkedin-profile-photo.jpg)](https://postimg.cc/zbbNTgMC)
 ### Hi there <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I am Masud Rana
 <h2 align="center">A passionate Mern-Stack Developer from Bangladesh.</h2>
 
