@@ -1,7 +1,7 @@
 # <h1 align="center">👨‍💻 Welcome Programmer</h1>
 [![linkedin-profile-photo.jpg](https://i.postimg.cc/4dw3kvQS/linkedin-profile-photo.jpg)](https://www.linkedin.com/in/mrmasudrana/)
 ### Hi there <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I am Masud Rana
-<h2 align="center">A passionate Mern-Stack Developer from Bangladesh.</h2>
+<h2 align="center">A Passionate Mern-Stack Developer from Bangladesh.</h2>
 
 # <h1 align="center">***** SKILLS *****</h1>
 <h3 align="left">Languages and Tools:</h3>
