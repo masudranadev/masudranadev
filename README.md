@@ -4,7 +4,7 @@
 <h2 align="center">A Passionate Mern-Stack Developer from Bangladesh.</h2>
 
 # <h1 align="center">***** SKILLS *****</h1>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:-</h3>
 
 ## For FrontEnd
 
